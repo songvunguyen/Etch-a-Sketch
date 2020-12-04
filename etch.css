@@ -1,6 +1,10 @@
 #container{
     display: grid;
-    grid-template-columns: repeat(16, 50px);
-    grid-template-rows: repeat(16, 50px);
+    grid-template-columns: repeat(16, 60px);
+    grid-template-rows: repeat(16, 60px);
     justify-content: center;
+}
+
+#button{
+    font-size: 50px;
 }
